@@ -194,7 +194,7 @@ font-size: 30px;
     color: #161F2A;
     text-align: center;
     font-size: 30px;
-    margin-top: 60px;
+    margin-top: 30px;
     margin-left: 30px;
     font-weight: 700;
         }
@@ -202,7 +202,7 @@ font-size: 30px;
     color: #161F2A;
     text-align: center;
     margin-left: 50px;
-    font-size: 26px;
+    font-size: 20px;
     margin-bottom: 50px;
     font-weight: 600;
 }
@@ -236,14 +236,14 @@ font-size: 30px;
     color: #161F2A;
     text-align: center;
     font-size: 30px;
-    margin-top: 60px;
+    margin-top: 30px;
     margin-right: 270px;
     font-weight: 700;
 } 
 #information-section .card-text-secondary{
     color: #161F2A;
     text-align: center;
-    font-size: 26px;
+    font-size: 20px;
     margin-right: 270px;
     margin-bottom: 50px;
     font-weight: 600;
@@ -299,11 +299,11 @@ font-size: 30px;
 #volunteer-section{
     background-color: #ffffff;
     width: 100%;
-    height: 60vh;
+    height: 80vh;
 }
 #volunteer-section .volunteer-title{
 text-align: center;
-margin-top: 100px;
+margin-top: 60px;
 font-size: 50px;
 font-family: "Oswald", sans-serif;
 color: #161F2A;
@@ -321,7 +321,7 @@ margin-bottom: 50px;
     background-color: #ffffff;
     text-decoration: none;
     padding: 20px 80px;
-    margin-left: 880px;
+    margin-left: 520px;
 
 }
 #volunteer-section .volunteer-link:hover{
@@ -445,7 +445,7 @@ margin-bottom: 50px;
   color: #ffffff;
   font-size: 20px;
   font-weight: 500;
-margin-left: -260px;
+margin-left: -80px;
 }
 
 
